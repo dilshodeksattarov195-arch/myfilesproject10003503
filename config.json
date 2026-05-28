@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productralculate",
+        "uuid": 12954094,
+        "checksum": "ebw6mb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
